@@ -1,0 +1,304 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Le répertoire intermédiaire (x64\Release\) contient des fichiers partagés provenant d'un autre projet (novacane.clinic.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  dllmain.cpp
+C:\Users\Seven\Desktop\internal KL new update\Internal\sdk.h(1197,34): warning C4838: la conversion de 'double' en 'float' requiert une conversion restrictive
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\sdk.h(1197,34): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\sdk.h(1197,46): warning C4838: la conversion de 'double' en 'float' requiert une conversion restrictive
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\sdk.h(1197,46): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\render.h(69,14): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\render.h(73,13): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\render.h(74,13): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\render.h(75,13): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\render.h(76,13): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(266,58): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(273,37): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(282,14): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(287,14): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(295,78): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(319,104): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(326,14): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(330,13): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(331,13): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(332,13): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(333,13): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(339,72): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(403,59): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(403,51): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(407,51): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(435,21): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(439,21): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(475,21): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(482,35): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(482,27): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(485,23): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(519,21): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(526,58): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(526,50): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(531,58): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(531,50): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(535,23): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(571,21): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(587,21): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(707,21): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(713,23): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(717,90): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(717,75): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(729,70): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(744,14): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(745,98): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(780,21): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(787,58): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(787,50): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(793,58): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(793,50): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(797,23): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(831,82): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(842,82): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(935,21): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(942,58): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(942,50): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(947,58): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(947,50): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(951,23): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(1025,125): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\ZeroGUI.h(1025,91): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(22,16): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(23,17): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(252,16): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(259,34): warning C4244: 'argument' : conversion de 'const double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(260,34): warning C4244: 'argument' : conversion de 'const double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(262,34): warning C4244: 'argument' : conversion de 'const double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(263,34): warning C4244: 'argument' : conversion de 'const double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(369,88): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(391,16): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(398,29): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(408,16): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(415,29): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(433,100): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(433,79): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(435,91): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(435,70): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(944,234): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(944,214): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(944,190): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(944,186): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(944,176): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(961,28): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(1031,20): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(1032,21): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(1249,145): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(1249,126): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(1249,98): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(1249,75): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(1249,65): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(1363,164): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(1363,145): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(1363,117): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(1363,91): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+C:\Users\Seven\Desktop\internal KL new update\Internal\hooking.h(1363,81): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+  (compiler le fichier source 'dllmain.cpp')
+  
+  Génération de code en cours
+C:\Users\Seven\Desktop\internal KL new update\Internal\memory.h(20): warning C4715: 'read<tarray<ulocalplayer *> >' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\Seven\Desktop\internal KL new update\Internal\memory.h(20): warning C4715: 'read<ugameviewportclient *>' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\Seven\Desktop\internal KL new update\Internal\memory.h(20): warning C4715: 'read<mesh *>' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\Seven\Desktop\internal KL new update\Internal\memory.h(20): warning C4715: 'read<weakspot_struft_0x2b8>' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\Seven\Desktop\internal KL new update\Internal\memory.h(20): warning C4715: 'read<item_definition *>' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\Seven\Desktop\internal KL new update\Internal\memory.h(20): warning C4715: 'read<container_struct_0x102a>' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\Seven\Desktop\internal KL new update\Internal\memory.h(20): warning C4715: 'read<ftext>' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\Seven\Desktop\internal KL new update\Internal\memory.h(20): warning C4715: 'read<enum fort_item_tier>' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\Seven\Desktop\internal KL new update\Internal\memory.h(20): warning C4715: 'read<uworld *>' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\Seven\Desktop\internal KL new update\Internal\memory.h(20): warning C4715: 'read<float>' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\Seven\Desktop\internal KL new update\Internal\memory.h(20): warning C4715: 'read<uobject *>' : les chemins de contrôle ne retournent pas tous une valeur
+  305 of 306 functions (99.7%) were compiled, the rest were copied from previous compilation.
+    110 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  subzero.vcxproj -> C:\Users\Seven\Desktop\internal KL new update\Internal\x64\Release\subzero internal.dll
